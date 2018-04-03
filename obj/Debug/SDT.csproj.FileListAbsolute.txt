@@ -1,0 +1,5 @@
+E:\WorkSpace\Project\SDT\SDT\bin\Debug\SDT.dll
+E:\WorkSpace\Project\SDT\SDT\bin\Debug\SDT.pdb
+E:\WorkSpace\Project\SDT\SDT\obj\Debug\SDT.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Project\SDT\SDT\obj\Debug\SDT.dll
+E:\WorkSpace\Project\SDT\SDT\obj\Debug\SDT.pdb
